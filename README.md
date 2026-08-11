@@ -39,7 +39,7 @@ Estou sempre aberto a aprender, criar projetos e conhecer novas tecnologias.
 
 ## 📫 Contato
 
-* 💻 GitHub: @WillyanDev1(https://github.com/seu-usuario)
+* 💻 GitHub: (https://github.com/@WillyanDev1)
 * 📧 E-mail: Willyanmaycon010@gmail.com
 
 ---
